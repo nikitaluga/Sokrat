@@ -11,7 +11,7 @@ Sokrat. — образовательный маркетплейс, которы�
 
 
 
-<img width="361" alt="Снимок экрана 2021-09-16 в 09 24 25" src="https://user-images.githubusercontent.com/58077734/133560865-e11ad206-5aea-4171-9d13-41ebc016373d.png">
+
 <img width="360" alt="Снимок экрана 2021-09-16 в 09 25 43" src="https://user-images.githubusercontent.com/58077734/133560873-98a182a7-0589-4487-bed1-e53348ef5dbb.png">
 <img width="360" alt="Снимок экрана 2021-09-16 в 09 25 14" src="https://user-images.githubusercontent.com/58077734/133560882-4d1a838d-ff74-4072-ac28-fcc156a5c044.png">
 <img width="360" alt="Снимок экрана 2021-09-16 в 09 25 32" src="https://user-images.githubusercontent.com/58077734/133560888-1f5c4f6c-3855-4009-996d-5f7d193d5cfb.png">
